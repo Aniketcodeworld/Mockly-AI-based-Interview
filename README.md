@@ -154,3 +154,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - [Google Gemini](https://ai.google.dev/) for powerful language model capabilities
 - [Next.js](https://nextjs.org/) for the frontend framework
 - [FastAPI](https://fastapi.tiangolo.com/) for the backend API
+
+
+________________________PROJECT IS COMPLETED_________________________ 
