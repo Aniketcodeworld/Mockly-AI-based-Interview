@@ -155,5 +155,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - [Next.js](https://nextjs.org/) for the frontend framework
 - [FastAPI](https://fastapi.tiangolo.com/) for the backend API
 
-
+FULL STACK AI WEB APPLICATION USING PYTHON + FASTAPI + AI AGENT + MONGO_DB
 ________________________PROJECT IS COMPLETED_________________________ 
